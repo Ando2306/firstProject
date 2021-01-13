@@ -16,11 +16,9 @@
 
 
 
-// let anun = 1000.45
-// typeof
-// alert(num)
-// document.write(anun + '<br>')
-// document.write(typeof anun)
+let anun = 1000.45;
+document.write(anun + '<br>')
+document.write(typeof anun)
 
 
 
@@ -76,6 +74,9 @@
 // let b=8
 // let s=8*8
 // alert(s)
+
+
+
 
 
 
